@@ -48,6 +48,7 @@ For a list of existing translations, see [All WAI Translations](/translations/).
 {% include_cached toc.html type="end" %}
 {:/}
 
+
 ## Ways to contribute
 
 You can contribute to WAI translations in many ways:
